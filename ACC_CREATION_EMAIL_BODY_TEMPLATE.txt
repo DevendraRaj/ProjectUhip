@@ -1,0 +1,29 @@
+Subject: UHIP Account Created Successfully <br/>
+
+Body: <br/><br/>
+
+Hi ${FNAME}  ${LNAME}, 
+
+<br/><br/>
+Welcome to UHIP application. your Account is created by UHIP admin.
+
+<br/><br/>
+Please use below details to access UHIP application.
+
+<br/><br/>
+Application URL : ${URL}<br/>
+
+Email : ${EMAIL}<br/>
+
+Password : ${PWD}<br/>
+
+Your Role : ${ROLE}
+
+<br/><br/>
+If you have any concerns/issues please contact UHIP Administrator using <br/>
+
+Phone No: ${PHNO}<br/>
+
+<br/>
+Thanks & Regards,<br/>
+UHIP Admin Team.

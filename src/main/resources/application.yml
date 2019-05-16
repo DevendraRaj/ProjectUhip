@@ -1,0 +1,8 @@
+spring:
+ profiles:
+  active: dev
+  
+ mvc:
+    view:
+      prefix: /views/
+      suffix: .jsp
